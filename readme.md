@@ -54,7 +54,7 @@ Building pipelines, dashboards, and AI-powered tools that turn messy data into d
 ## 🎯 Currently
 
 - M.Sc. Big Data @ SFU | TA for CMPT 473 (Software Testing, Reliability & Security)
-- Seeking **Data Analyst / Data Engineer co-op** — Summer or Fall 2026 in Vancouver
+- Seeking **Data Analyst / Data Engineer co-op** — Summer/Fall 2026
 - Exploring: RAG pipelines, LLM-powered analytics, agentic data workflows
 
 ---
