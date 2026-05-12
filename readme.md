@@ -4,7 +4,6 @@
 Building pipelines, dashboards, and AI-powered tools that turn messy data into decisions.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ishmeetkaur--ika47-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishmeetkaur-ika47/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ishmeet2001.github.io-black?style=flat&logo=github)](https://ishmeet2001.github.io)
 [![Email](https://img.shields.io/badge/Email-ika47@sfu.ca-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ika47@sfu.ca)
 
 ---
