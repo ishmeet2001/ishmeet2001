@@ -13,8 +13,6 @@ Building pipelines, dashboards, and AI-powered tools that turn messy data into d
 - **Data Engineering** — end-to-end pipelines: ingestion → transformation → delivery (Kafka, FastAPI, AWS S3, BigQuery, Snowflake)
 - **Analytics & BI** — SQL-heavy analysis, Tableau/Plotly dashboards, and storytelling with data
 - **AI/ML Integration** — LLM-powered tools (RAG pipelines, LangChain, ChromaDB), classification models, anomaly detection
-- **Scale** — worked on 1.4M+ record datasets using PySpark; built real-time streaming systems
-
 ---
 
 ## 🛠️ Tech Stack
