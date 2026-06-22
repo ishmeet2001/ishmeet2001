@@ -46,14 +46,3 @@ Building pipelines, dashboards, and AI-powered tools that turn messy data into d
 ![Ishmeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishmeet2001&show_icons=true&hide_border=true&count_private=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishmeet2001&layout=compact&hide_border=true&theme=default)
 
----
-
-## 🎯 Currently
-
-- M.Sc. Big Data @ SFU | TA for CMPT 473 (Software Testing, Reliability & Security)
-- Seeking **Data Analyst / Data Engineer co-op** — Summer/Fall 2026
-- Exploring: RAG pipelines, LLM-powered analytics, agentic data workflows
-
----
-
-*Open to co-op opportunities, project collaborations, and coffee chats about data + AI.*
