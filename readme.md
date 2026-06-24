@@ -2,7 +2,7 @@
 Data Analytics, Data Engineering, Data Science & AI Enthusiast  
 M.Sc. Computing Science (Big Data) student at Simon Fraser University
 
-I enjoy working across the data lifecycle—from cleaning and analyzing data to building pipelines, dashboards, predictive models, and AI-powered workflows.
+I enjoy working across the data lifecycle from cleaning and analyzing data to building pipelines, dashboards, predictive models, and AI-powered workflows.
 My projects explore data analytics, data engineering, machine learning, visualization, and practical AI applications.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ishmeetkaur--ika47-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishmeetkaur-ika47/)
