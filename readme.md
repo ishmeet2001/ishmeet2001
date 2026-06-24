@@ -1,18 +1,21 @@
-# Hi, I'm Ishmeet 👋
+# Hi, I'm Ishmeet Kaur
+Data Analytics, Data Engineering, Data Science & AI Enthusiast  
+M.Sc. Computing Science (Big Data) student at Simon Fraser University
 
-**Data Analyst & Data Engineer** | M.Sc. Computing Science (Big Data) @ Simon Fraser University  
-Building pipelines, dashboards, and AI-powered tools that turn messy data into decisions.
+I enjoy working across the data lifecycle—from cleaning and analyzing data to building pipelines, dashboards, predictive models, and AI-powered workflows.
+My projects explore data analytics, data engineering, machine learning, visualization, and practical AI applications.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ishmeetkaur--ika47-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishmeetkaur-ika47/)
 [![Email](https://img.shields.io/badge/Email-ika47@sfu.ca-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ika47@sfu.ca)
 
 ---
 
-## 🔍 What I do
+## 🔍 What I Build
 
-- **Data Engineering** — end-to-end pipelines: ingestion → transformation → delivery (Kafka, FastAPI, AWS S3, BigQuery, Snowflake)
-- **Analytics & BI** — SQL-heavy analysis, Tableau/Plotly dashboards, and storytelling with data
-- **AI/ML Integration** — LLM-powered tools (RAG pipelines, LangChain, ChromaDB), classification models, anomaly detection
+*   **End-to-End Data Pipelines:** Moving and transforming raw data into Snowflake/BigQuery using Python, Kafka, and cloud APIs.
+*   **Interactive BI Dashboards:** Creating SQL-driven reports and interactive applications (Tableau, Plotly) to tell stories with data.
+*   **LLM & AI Applications:** Implementing classification models, anomaly detection, and RAG pipelines (LangChain, vector databases).
+
 ---
 
 ## 🛠️ Tech Stack
@@ -45,4 +48,3 @@ Building pipelines, dashboards, and AI-powered tools that turn messy data into d
 
 ![Ishmeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishmeet2001&show_icons=true&hide_border=true&count_private=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishmeet2001&layout=compact&hide_border=true&theme=default)
-
