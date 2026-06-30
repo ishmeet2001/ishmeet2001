@@ -42,6 +42,28 @@ My projects explore data analytics, data engineering, machine learning, visualiz
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 
+## 🚀 Featured Projects
+
+### 🤖 AI & Intelligent Systems
+* **[AI Document Processing Pipeline](https://github.com/ishmeet2001/AI-Document-Processing-Pipeline)**
+  * Extracts structured database-ready invoice information from unstructured text documents using a LangChain agentic workflow and Google Gemini.
+  * Features multi-threaded file reading, Pydantic schema validation, and dynamic SQLite table generation.
+
+### ⚙️ Data Engineering Pipelines
+* **[Retail Analytics Pipeline](https://github.com/ishmeet2001/retail-analytics-pipeline)**
+  * A pipeline designed to automate raw transaction data cleaning, warehousing, and downstream metrics calculation.
+
+### 📊 Data Analysis & BI Dashboards
+* **[Canadian Rental Market Analysis](https://github.com/ishmeet2001/canadian-rental-market-analysis)**
+  * Evaluates rental market tightness and pressure points using CMHC survey tables.
+  * Implements transparent market-pressure logic in SQLite window functions and features Power BI dashboard exports.
+* **[Credit Risk Monitoring Dashboard](https://github.com/ishmeet2001/Credit-Risk-Monitoring-Dashboard)** & **[Credit Risk Analysis](https://github.com/ishmeet2001/Credit-Risk-Analysis)**
+  * Analyzes borrower defaults and builds visual dashboards to monitor loan portfolio performance.
+* **[AI Job Market Analysis](https://github.com/ishmeet2001/AI-Job-Market-Analysis)**
+  * Analyzes data roles, core skills, and hiring requirements in the AI and Big Data space.
+* **[U.S. Multi-State Violent Crime Analysis](https://github.com/ishmeet2001/U.S.-Multi-State-Violent-Crime-Analysis)**
+  * Statistical evaluation of violent crime patterns across multiple states using python analysis.
+
 ---
 
 ## 📈 GitHub Stats
