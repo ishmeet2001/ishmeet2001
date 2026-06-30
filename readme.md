@@ -1,20 +1,10 @@
 # Hi, I'm Ishmeet Kaur
-Data Analytics, Data Engineering, Data Science & AI Enthusiast  
-M.Sc. Computing Science (Big Data) student at Simon Fraser University
+Data Analytics, Engineering and AI Enthusiast  
 
 I enjoy working across the data lifecycle from cleaning and analyzing data to building pipelines, dashboards, predictive models, and AI-powered workflows.
-My projects explore data analytics, data engineering, machine learning, visualization, and practical AI applications.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ishmeetkaur--ika47-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishmeetkaur-ika47/)
 [![Email](https://img.shields.io/badge/Email-ika47@sfu.ca-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ika47@sfu.ca)
-
----
-
-## 🔍 What I Build
-
-*   **End-to-End Data Pipelines:** Moving and transforming raw data into Snowflake/BigQuery using Python, Kafka, and cloud APIs.
-*   **Interactive BI Dashboards:** Creating SQL-driven reports and interactive applications (Tableau, Plotly) to tell stories with data.
-*   **LLM & AI Applications:** Implementing classification models, anomaly detection, and RAG pipelines (LangChain, vector databases).
 
 ---
 
