@@ -1,7 +1,64 @@
-# Hi, I'm Ishmeet Kaur
-Data Analytics, Engineering and AI Enthusiast  
+<!-- Animated Header -->
 
-I enjoy working across the data lifecycle from cleaning and analyzing data to building pipelines, dashboards, predictive models, and AI-powered workflows.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Ishmeet%20Kaur&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Engineering%20%7C%20Machine%20Learning%20%7C%20Applied%20AI&descAlignY=55&descSize=16" />
+</p>
+
+# About Me
+
+I am a Master's student in Computing Science (Big Data) at Simon Fraser University with interests in data engineering, machine learning, and applied AI.
+
+I enjoy building practical systems that combine data pipelines, machine learning, and cloud technologies to solve real-world problems and turn complex data into actionable insights.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ishmeetkaur--ika47-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishmeetkaur-ika47/)
-[![Email](https://img.shields.io/badge/Email-ika47@sfu.ca-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ika47@sfu.ca)
+
+## ⚙️ Tech Stack
+
+**Languages & Data**
+
+`Python` `SQL` `C++`
+
+**Data Engineering**
+
+`PySpark` `Spark` `Kafka` `Airflow` `dbt` `Azure Data Factory`
+
+**Machine Learning & AI**
+
+`Scikit-learn` `XGBoost` `LangChain` `RAG` `Hugging Face`
+
+**Cloud & Infrastructure**
+
+`AWS` `GCP` `Azure` `Docker`
+
+**Databases & Analytics**
+
+`MySQL` `BigQuery` `Tableau` `Power BI`
+
+**APIs & Applications**
+
+`FastAPI` `Streamlit` `Next.js`
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true&theme=transparent" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&theme=transparent" height="165"/>
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+</p>
+
+---
+
+<!-- Animated Footer -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" />
+</p>
