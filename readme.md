@@ -43,8 +43,8 @@ I enjoy building practical systems that combine data pipelines, machine learning
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true&theme=transparent" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&theme=transparent" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ika16&show_icons=true&hide_border=true&count_private=true&theme=transparent" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ika16&hide_border=true&theme=transparent" height="165"/>
 </p>
 
 ---
